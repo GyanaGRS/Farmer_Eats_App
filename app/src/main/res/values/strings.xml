@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Farmer Eat</string>
+
+    <string name="onboarding_heading_1">Quality</string>
+    <string name="onboarding_heading_2">Convenient</string>
+    <string name="onboarding_heading_3">Local</string>
+
+    <string name="onboarding_paragraph_1">Sell your farm fresh products directly to consumers, cutting out the middleman and reducing emissions of the global supply chain. </string>
+    <string name="onboarding_paragraph_2">Our team of delivery drivers will make sure your orders are picked up on time and promptly delivered to your customers.</string>
+    <string name="onboarding_paragraph_3">We love the earth and know you do too! Join us in reducing our local carbon footprint one order at a time. </string>
+
+    <string name="onboarding_button_txt">Join the Movement!</string>
+    <string name="login_txt"><u>Login</u></string>
+</resources>
